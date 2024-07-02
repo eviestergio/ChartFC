@@ -1,0 +1,99 @@
+[
+    {
+        "image_index": 6160,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 545,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 450,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 356,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 261,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 166,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 72,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 6,
+        "answer_id": 34,
+        "type": "hbar",
+        "question_id": 24
+    },
+    {
+        "image_index": 28543,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 677.1525,
+            "x": 416,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "vbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 11066,
+        "qid": "CD8",
+        "question_string": "In how many countries, is the net energy imports in 1961 greater than the average net energy imports in 1961 taken over all countries ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": 1,
+        "answer_id": 16,
+        "type": "hbar",
+        "question_id": 142062
+    },
+    {
+        "image_index": 10188,
+        "qid": "CD7",
+        "question_string": "What is the difference between the highest and the lowest percentage of electricity produced by hydroelectric sources ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": 40.22,
+        "answer_id": 54992,
+        "type": "hbar",
+        "question_id": 108982
+    },
+    {
+        "image_index": 720,
+        "qid": "D17",
+        "question_string": "Is the export of goods and services strictly greater than the imports of goods and services over the years ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "dot",
+        "question_id": 4210
+    }
+]

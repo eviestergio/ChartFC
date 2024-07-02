@@ -1,0 +1,102 @@
+[
+    {
+        "imgname": "8310.png",
+        "query": "What's the ratio of the smallest blue bar and the first green bar from the top?",
+        "label": "1.160416667"
+    },
+    {
+        "imgname": "4608.png",
+        "query": "Find the ratio in Russia Category, Not Too much/not at all vs Great Deal fair amount?",
+        "label": "2.768055556"
+    },
+    {
+        "imgname": "4652.png",
+        "query": "Is the sum of two smallest value of blue graph greater than smallest value of green graph?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "4876.png",
+        "query": "Is the sum of all the values in 2017 smaller than sum of all the values in 2005?",
+        "label": "No"
+    },
+    {
+        "imgname": "3447.png",
+        "query": "What's the percentage answering no?",
+        "label": "78"
+    },
+    {
+        "imgname": "3097.png",
+        "query": "How many categories prefer a single govt program over a mixed one?",
+        "label": "8"
+    },
+    {
+        "imgname": "14969.png",
+        "query": "What's the value of Like it segment?",
+        "label": "29"
+    },
+    {
+        "imgname": "3461.png",
+        "query": "What\ufffds the difference in the value of twitter\ufffds highest value and lowest value?",
+        "label": "41"
+    },
+    {
+        "imgname": "266.png",
+        "query": "What is the average of Acceptable and Unacceptable , find individually ?",
+        "label": "Acceptable : 48 Unacceptable : 51"
+    },
+    {
+        "imgname": "17358.png",
+        "query": "What are the percentage in democrat and no partisan leaning?",
+        "label": "[47, 13]"
+    },
+    {
+        "imgname": "2856.png",
+        "query": "what is the percentage of somewhat in the top bar?",
+        "label": "53"
+    },
+    {
+        "imgname": "7488.png",
+        "query": "How many issues have over 50 approval rates?",
+        "label": "3"
+    },
+    {
+        "imgname": "12181.png",
+        "query": "What's the value of Satisfied graph in 2014?",
+        "label": "44"
+    },
+    {
+        "imgname": "145.png",
+        "query": "What is the ratio between china and germany in ages 30-49 ?",
+        "label": "1.536805556"
+    },
+    {
+        "imgname": "578.png",
+        "query": "What is the ration between A great deal vs Not too much/none at all  in Not Get the vaccine category?",
+        "label": "0.371527778"
+    },
+    {
+        "imgname": "1206.png",
+        "query": "What is the difference in value in India and Colombia who believes having an increasing number of people in their country makes it a worse place to live ?",
+        "label": "0.09"
+    },
+    {
+        "imgname": "2902.png",
+        "query": "Take the average of all the light blue bars and the median of light green bars, what's the average of these two values?",
+        "label": "33.375"
+    },
+    {
+        "imgname": "12756.png",
+        "query": "Is the value of \"Don't know\" segment 7%?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "10150.png",
+        "query": "How many issues have over 65 respondents choosing disapprove?",
+        "label": "3"
+    },
+    {
+        "imgname": "6872.png",
+        "query": "What's the color of Left most bars?",
+        "label": "Green"
+    }
+]

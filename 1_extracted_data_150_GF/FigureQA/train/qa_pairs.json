@@ -1,0 +1,1002 @@
+[
+    {
+        "image_index": 56962,
+        "color2_name": "Medium Seafoam",
+        "color1_name": "Pale Green",
+        "color1_rgb": [
+            152,
+            251,
+            152
+        ],
+        "question_string": "Is Pale Green less than Medium Seafoam?",
+        "color2_id": 62,
+        "color1_id": 74,
+        "answer": 1,
+        "color2_rgb": [
+            60,
+            179,
+            113
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 30241,
+        "color2_name": "--None--",
+        "color1_name": "Light Seafoam",
+        "color1_rgb": [
+            32,
+            178,
+            170
+        ],
+        "question_string": "Is Light Seafoam the high median?",
+        "color2_id": -1,
+        "color1_id": 51,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 1919,
+        "color2_name": "Blue Violet",
+        "color1_name": "Light Slate",
+        "color1_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_string": "Is Light Slate greater than Blue Violet?",
+        "color2_id": 3,
+        "color1_id": 53,
+        "answer": 0,
+        "color2_rgb": [
+            138,
+            43,
+            226
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 53060,
+        "color2_name": "--None--",
+        "color1_name": "Orange Red",
+        "color1_rgb": [
+            255,
+            69,
+            0
+        ],
+        "question_string": "Is Orange Red the low median?",
+        "color2_id": -1,
+        "color1_id": 72,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    },
+    {
+        "image_index": 80097,
+        "color2_name": "--None--",
+        "color1_name": "Green Yellow",
+        "color1_rgb": [
+            173,
+            255,
+            47
+        ],
+        "question_string": "Does Green Yellow have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 42,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 56058,
+        "color2_name": "Medium Periwinkle",
+        "color1_name": "Dark Olive",
+        "color1_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_string": "Is Dark Olive less than Medium Periwinkle?",
+        "color2_id": 63,
+        "color1_id": 20,
+        "answer": 1,
+        "color2_rgb": [
+            123,
+            104,
+            238
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 30222,
+        "color2_name": "--None--",
+        "color1_name": "Light Seafoam",
+        "color1_rgb": [
+            32,
+            178,
+            170
+        ],
+        "question_string": "Is Light Seafoam the maximum?",
+        "color2_id": -1,
+        "color1_id": 51,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 97579,
+        "color2_name": "--None--",
+        "color1_name": "Green",
+        "color1_rgb": [
+            0,
+            255,
+            0
+        ],
+        "question_string": "Does Green have the highest value?",
+        "color2_id": -1,
+        "color1_id": 40,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 66345,
+        "color2_name": "--None--",
+        "color1_name": "Orange Red",
+        "color1_rgb": [
+            255,
+            69,
+            0
+        ],
+        "question_string": "Does Orange Red have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 72,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 80465,
+        "color2_name": "--None--",
+        "color1_name": "Indian Red",
+        "color1_rgb": [
+            205,
+            92,
+            92
+        ],
+        "question_string": "Is Indian Red the roughest?",
+        "color2_id": -1,
+        "color1_id": 44,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 81336,
+        "color2_name": "Dim Gray",
+        "color1_name": "Light Salmon",
+        "color1_rgb": [
+            255,
+            160,
+            122
+        ],
+        "question_string": "Does Light Salmon intersect Dim Gray?",
+        "color2_id": 32,
+        "color1_id": 50,
+        "answer": 0,
+        "color2_rgb": [
+            105,
+            105,
+            105
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 96725,
+        "color2_name": "Tomato",
+        "color1_name": "Violet Red",
+        "color1_rgb": [
+            199,
+            21,
+            133
+        ],
+        "question_string": "Is Violet Red less than Tomato?",
+        "color2_id": 95,
+        "color1_id": 66,
+        "answer": 0,
+        "color2_rgb": [
+            255,
+            99,
+            71
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 90707,
+        "color2_name": "Lawn Green",
+        "color1_name": "Chartreuse",
+        "color1_rgb": [
+            127,
+            255,
+            0
+        ],
+        "question_string": "Does Chartreuse intersect Lawn Green?",
+        "color2_id": 47,
+        "color1_id": 7,
+        "answer": 0,
+        "color2_rgb": [
+            124,
+            252,
+            0
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 7027,
+        "color2_name": "--None--",
+        "color1_name": "Brown",
+        "color1_rgb": [
+            165,
+            42,
+            42
+        ],
+        "question_string": "Is Brown the low median?",
+        "color2_id": -1,
+        "color1_id": 4,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    },
+    {
+        "image_index": 95313,
+        "color2_name": "Khaki",
+        "color1_name": "Light Slate",
+        "color1_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_string": "Does Light Slate intersect Khaki?",
+        "color2_id": 46,
+        "color1_id": 53,
+        "answer": 0,
+        "color2_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 45123,
+        "color2_name": "--None--",
+        "color1_name": "Tan",
+        "color1_rgb": [
+            210,
+            180,
+            140
+        ],
+        "question_string": "Is Tan the maximum?",
+        "color2_id": -1,
+        "color1_id": 93,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 22336,
+        "color2_name": "--None--",
+        "color1_name": "Dark Violet",
+        "color1_rgb": [
+            148,
+            0,
+            211
+        ],
+        "question_string": "Is Dark Violet the high median?",
+        "color2_id": -1,
+        "color1_id": 29,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 1073,
+        "color2_name": "Gold",
+        "color1_name": "Blue",
+        "color1_rgb": [
+            0,
+            0,
+            255
+        ],
+        "question_string": "Is Blue greater than Gold?",
+        "color2_id": 37,
+        "color1_id": 2,
+        "answer": 0,
+        "color2_rgb": [
+            218,
+            165,
+            32
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 76273,
+        "color2_name": "Burlywood",
+        "color1_name": "Salmon",
+        "color1_rgb": [
+            250,
+            128,
+            114
+        ],
+        "question_string": "Does Salmon intersect Burlywood?",
+        "color2_id": 5,
+        "color1_id": 84,
+        "answer": 0,
+        "color2_rgb": [
+            222,
+            184,
+            135
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 40448,
+        "color2_name": "--None--",
+        "color1_name": "Dark Orange",
+        "color1_rgb": [
+            255,
+            140,
+            0
+        ],
+        "question_string": "Is Dark Orange the maximum?",
+        "color2_id": -1,
+        "color1_id": 21,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 39429,
+        "color2_name": "--None--",
+        "color1_name": "Gray",
+        "color1_rgb": [
+            190,
+            190,
+            190
+        ],
+        "question_string": "Is Gray the high median?",
+        "color2_id": -1,
+        "color1_id": 38,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 21552,
+        "color2_name": "--None--",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Is Royal Blue the minimum?",
+        "color2_id": -1,
+        "color1_id": 82,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 13758,
+        "color2_name": "--None--",
+        "color1_name": "Cyan",
+        "color1_rgb": [
+            0,
+            255,
+            255
+        ],
+        "question_string": "Is Cyan the maximum?",
+        "color2_id": -1,
+        "color1_id": 12,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 94320,
+        "color2_name": "--None--",
+        "color1_name": "Medium Aqua",
+        "color1_rgb": [
+            102,
+            205,
+            170
+        ],
+        "question_string": "Does Medium Aqua have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 58,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 81243,
+        "color2_name": "--None--",
+        "color1_name": "Sandy Brown",
+        "color1_rgb": [
+            244,
+            164,
+            96
+        ],
+        "question_string": "Does Sandy Brown have the highest value?",
+        "color2_id": -1,
+        "color1_id": 85,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 96566,
+        "color2_name": "--None--",
+        "color1_name": "Dark Olive",
+        "color1_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_string": "Does Dark Olive have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 20,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 13068,
+        "color2_name": "Crimson",
+        "color1_name": "Saddle Brown",
+        "color1_rgb": [
+            139,
+            69,
+            19
+        ],
+        "question_string": "Is Saddle Brown greater than Crimson?",
+        "color2_id": 11,
+        "color1_id": 83,
+        "answer": 1,
+        "color2_rgb": [
+            220,
+            20,
+            60
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 67686,
+        "color2_name": "--None--",
+        "color1_name": "Dark Turquoise",
+        "color1_rgb": [
+            0,
+            206,
+            209
+        ],
+        "question_string": "Does Dark Turquoise have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 28,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 80519,
+        "color2_name": "Turquoise",
+        "color1_name": "Bubblegum",
+        "color1_rgb": [
+            219,
+            112,
+            147
+        ],
+        "question_string": "Does Bubblegum intersect Turquoise?",
+        "color2_id": 96,
+        "color1_id": 75,
+        "answer": 1,
+        "color2_rgb": [
+            64,
+            224,
+            208
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 87992,
+        "color2_name": "Hot Pink",
+        "color1_name": "Dark Magenta",
+        "color1_rgb": [
+            139,
+            0,
+            139
+        ],
+        "question_string": "Does Dark Magenta intersect Hot Pink?",
+        "color2_id": 43,
+        "color1_id": 19,
+        "answer": 0,
+        "color2_rgb": [
+            255,
+            105,
+            180
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 22422,
+        "color2_name": "--None--",
+        "color1_name": "Web Green",
+        "color1_rgb": [
+            0,
+            128,
+            0
+        ],
+        "question_string": "Is Web Green the minimum?",
+        "color2_id": -1,
+        "color1_id": 41,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 60267,
+        "color2_name": "--None--",
+        "color1_name": "Purple",
+        "color1_rgb": [
+            160,
+            32,
+            240
+        ],
+        "question_string": "Does Purple have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 77,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 16757,
+        "color2_name": "Light Green",
+        "color1_name": "Orange Red",
+        "color1_rgb": [
+            255,
+            69,
+            0
+        ],
+        "question_string": "Is Orange Red greater than Light Green?",
+        "color2_id": 49,
+        "color1_id": 72,
+        "answer": 0,
+        "color2_rgb": [
+            144,
+            238,
+            144
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 82158,
+        "color2_name": "Blue Violet",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Is Royal Blue greater than Blue Violet?",
+        "color2_id": 3,
+        "color1_id": 82,
+        "answer": 0,
+        "color2_rgb": [
+            138,
+            43,
+            226
+        ],
+        "question_id": 13
+    },
+    {
+        "image_index": 89579,
+        "color2_name": "Sky Blue",
+        "color1_name": "Dark Cyan",
+        "color1_rgb": [
+            0,
+            139,
+            139
+        ],
+        "question_string": "Does Dark Cyan intersect Sky Blue?",
+        "color2_id": 88,
+        "color1_id": 14,
+        "answer": 1,
+        "color2_rgb": [
+            135,
+            206,
+            235
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 3842,
+        "color2_name": "Rebecca Purple",
+        "color1_name": "Rosy Brown",
+        "color1_rgb": [
+            188,
+            143,
+            143
+        ],
+        "question_string": "Is Rosy Brown less than Rebecca Purple?",
+        "color2_id": 79,
+        "color1_id": 81,
+        "answer": 0,
+        "color2_rgb": [
+            102,
+            51,
+            153
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 4123,
+        "color2_name": "--None--",
+        "color1_name": "Medium Purple",
+        "color1_rgb": [
+            147,
+            112,
+            219
+        ],
+        "question_string": "Is Medium Purple the maximum?",
+        "color2_id": -1,
+        "color1_id": 61,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 53266,
+        "color2_name": "--None--",
+        "color1_name": "Light Sky Blue",
+        "color1_rgb": [
+            135,
+            206,
+            250
+        ],
+        "question_string": "Is Light Sky Blue the maximum?",
+        "color2_id": -1,
+        "color1_id": 52,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 79600,
+        "color2_name": "--None--",
+        "color1_name": "Indigo",
+        "color1_rgb": [
+            75,
+            0,
+            130
+        ],
+        "question_string": "Does Indigo have the highest value?",
+        "color2_id": -1,
+        "color1_id": 45,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 61127,
+        "color2_name": "Royal Blue",
+        "color1_name": "Saddle Brown",
+        "color1_rgb": [
+            139,
+            69,
+            19
+        ],
+        "question_string": "Is Saddle Brown greater than Royal Blue?",
+        "color2_id": 82,
+        "color1_id": 83,
+        "answer": 1,
+        "color2_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_id": 13
+    },
+    {
+        "image_index": 13082,
+        "color2_name": "--None--",
+        "color1_name": "Hot Pink",
+        "color1_rgb": [
+            255,
+            105,
+            180
+        ],
+        "question_string": "Is Hot Pink the low median?",
+        "color2_id": -1,
+        "color1_id": 43,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    },
+    {
+        "image_index": 75670,
+        "color2_name": "--None--",
+        "color1_name": "Chocolate",
+        "color1_rgb": [
+            210,
+            105,
+            30
+        ],
+        "question_string": "Does Chocolate have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 8,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 26502,
+        "color2_name": "--None--",
+        "color1_name": "Dark Gold",
+        "color1_rgb": [
+            184,
+            134,
+            11
+        ],
+        "question_string": "Is Dark Gold the maximum?",
+        "color2_id": -1,
+        "color1_id": 15,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 6154,
+        "color2_name": "Blue",
+        "color1_name": "Cyan",
+        "color1_rgb": [
+            0,
+            255,
+            255
+        ],
+        "question_string": "Is Cyan less than Blue?",
+        "color2_id": 2,
+        "color1_id": 12,
+        "answer": 1,
+        "color2_rgb": [
+            0,
+            0,
+            255
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 3847,
+        "color2_name": "--None--",
+        "color1_name": "Violet Red",
+        "color1_rgb": [
+            199,
+            21,
+            133
+        ],
+        "question_string": "Is Violet Red the minimum?",
+        "color2_id": -1,
+        "color1_id": 66,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 56230,
+        "color2_name": "Blue",
+        "color1_name": "Gray",
+        "color1_rgb": [
+            190,
+            190,
+            190
+        ],
+        "question_string": "Is Gray greater than Blue?",
+        "color2_id": 2,
+        "color1_id": 38,
+        "answer": 0,
+        "color2_rgb": [
+            0,
+            0,
+            255
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 27840,
+        "color2_name": "--None--",
+        "color1_name": "Dark Periwinkle",
+        "color1_rgb": [
+            72,
+            61,
+            139
+        ],
+        "question_string": "Is Dark Periwinkle the minimum?",
+        "color2_id": -1,
+        "color1_id": 26,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 35702,
+        "color2_name": "Aqua",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Is Royal Blue less than Aqua?",
+        "color2_id": 0,
+        "color1_id": 82,
+        "answer": 0,
+        "color2_rgb": [
+            127,
+            255,
+            212
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 66604,
+        "color2_name": "--None--",
+        "color1_name": "Web Gray",
+        "color1_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_string": "Does Web Gray have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 39,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 85715,
+        "color2_name": "Mint",
+        "color1_name": "Teal",
+        "color1_rgb": [
+            0,
+            128,
+            128
+        ],
+        "question_string": "Is Teal less than Mint?",
+        "color2_id": 91,
+        "color1_id": 94,
+        "answer": 0,
+        "color2_rgb": [
+            0,
+            255,
+            127
+        ],
+        "question_id": 12
+    }
+]

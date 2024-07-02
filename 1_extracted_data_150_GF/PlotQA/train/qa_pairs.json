@@ -1,0 +1,717 @@
+[
+    {
+        "image_index": 41638,
+        "qid": "D15",
+        "question_string": "What is the growth rate in Australia in 2006 ?",
+        "answer_bbox": {
+            "y": 297,
+            "x": 69,
+            "w": 590,
+            "h": 15
+        },
+        "template": "data_retrieval",
+        "answer": 15.0631947019509,
+        "answer_id": 788236,
+        "type": "hbar",
+        "question_id": 1230449
+    },
+    {
+        "image_index": 40636,
+        "qid": "A9",
+        "question_string": "What is the difference between the amount of grants received(excluding technical cooperation) and amount of grants received(including technical cooperation) in Chile ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": "7020000",
+        "answer_id": 233948,
+        "type": "hbar",
+        "question_id": 1220140
+    },
+    {
+        "image_index": 24247,
+        "qid": "S0",
+        "question_string": "Does the graph contain any zero values ?",
+        "answer_bbox": [],
+        "template": "structural",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "dot",
+        "question_id": 27
+    },
+    {
+        "image_index": 105314,
+        "qid": "S9",
+        "question_string": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer_bbox": [],
+        "template": "structural",
+        "answer": "Yes",
+        "answer_id": 1,
+        "type": "vbar",
+        "question_id": 95190
+    },
+    {
+        "image_index": 47421,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 657,
+                "x": 176,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 248,
+                "w": 48.890625,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 341,
+                "w": 48.890625,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 434,
+                "w": 48.890625,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 527,
+                "w": 48.890625,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 620,
+                "w": 48.890625,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 713,
+                "w": 48.890625,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 807,
+                "w": 48.890625,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "hbar",
+        "question_id": 95219
+    },
+    {
+        "image_index": 69976,
+        "qid": "D14",
+        "question_string": "What is the amount of energy used in 1984 ?",
+        "answer_bbox": [
+            {
+                "y": 303,
+                "x": 62,
+                "w": 1002,
+                "h": 25
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": 460.950412290978,
+        "answer_id": 970325,
+        "type": "hbar",
+        "question_id": 222807
+    },
+    {
+        "image_index": 114633,
+        "qid": "A4",
+        "question_string": "What is the total net official development assistance aid received in Trinidad and Tobago in the graph ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 20190000.0,
+        "answer_id": 337288,
+        "type": "vbar",
+        "question_id": 1815730
+    },
+    {
+        "image_index": 76369,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 550,
+                "x": 62,
+                "w": 1023,
+                "h": 25
+            },
+            {
+                "y": 427,
+                "x": 62,
+                "w": 1033,
+                "h": 25
+            },
+            {
+                "y": 303,
+                "x": 62,
+                "w": 1000,
+                "h": 25
+            },
+            {
+                "y": 180,
+                "x": 62,
+                "w": 1016,
+                "h": 25
+            },
+            {
+                "y": 56,
+                "x": 62,
+                "w": 1033,
+                "h": 25
+            }
+        ],
+        "template": "structural",
+        "answer": 5,
+        "answer_id": 53,
+        "type": "hbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 19714,
+        "qid": "C4",
+        "question_string": "In how many years, is the total theoretical duration of secondary education in New Zealand greater than 6.4 years?",
+        "answer_bbox": [],
+        "template": "comparison",
+        "answer": 5,
+        "answer_id": 53,
+        "type": "dot",
+        "question_id": 1064223
+    },
+    {
+        "image_index": 133026,
+        "qid": "A6",
+        "question_string": "What is the difference between the gross enrolment ratio(female) in primary schools in 2004 and the gross enrolment ratio(female) in pre-primary schools in 2010?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 9.092460000000045,
+        "answer_id": 1357230,
+        "type": "vbar",
+        "question_id": 1992661
+    },
+    {
+        "image_index": 48350,
+        "qid": "M7",
+        "question_string": "In which year was the percentage of unemployed youth population in in Canada minimum?",
+        "answer_bbox": {
+            "y": 449,
+            "x": 30,
+            "w": 27.9375,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "2006",
+        "answer_id": 377,
+        "type": "hbar",
+        "question_id": 557006
+    },
+    {
+        "image_index": 135843,
+        "qid": "M4",
+        "question_string": "Across all years, what is the maximum percentage of value added in manufacturing by textiles and clothing in France ?",
+        "answer_bbox": {
+            "y": 302,
+            "x": 111,
+            "w": 20,
+            "h": 328
+        },
+        "template": "min_max",
+        "answer": 9.38072644597437,
+        "answer_id": 1374422,
+        "type": "vbar",
+        "question_id": 2020129
+    },
+    {
+        "image_index": 105356,
+        "qid": "A6",
+        "question_string": "What is the difference between the income from abroad in us$ in Fiji and the income from abroad in constant 2005 us$ in Gambia, The?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 43347131.8746304,
+        "answer_id": 1183004,
+        "type": "vbar",
+        "question_id": 1758276
+    },
+    {
+        "image_index": 49329,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 528,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 377,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 227,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            },
+            {
+                "y": 76,
+                "x": 30,
+                "w": 27.9375,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "hbar",
+        "question_id": 95219
+    },
+    {
+        "image_index": 29015,
+        "qid": "S1",
+        "question_string": "Does the graph contain grids ?",
+        "answer_bbox": [],
+        "template": "structural",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "hbar",
+        "question_id": 28
+    },
+    {
+        "image_index": 103673,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 92.65031250000003,
+            "w": 603.5,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Value added by agricultural sector (in constant LCU) of Costa Rica",
+        "answer_id": 138277,
+        "type": "line",
+        "question_id": 32
+    },
+    {
+        "image_index": 37715,
+        "qid": "A5",
+        "question_string": "What is the difference between the education completion rate of male students in Congo (Republic) and that in Sierra Leone ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 48.39565,
+        "answer_id": 762287,
+        "type": "hbar",
+        "question_id": 1189322
+    },
+    {
+        "image_index": 16348,
+        "qid": "M7",
+        "question_string": "In which year was the amount spent on imports in Ecuador minimum?",
+        "answer_bbox": {
+            "y": 641,
+            "x": 157,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2011",
+        "answer_id": 165,
+        "type": "dot",
+        "question_id": 1007770
+    },
+    {
+        "image_index": 37095,
+        "qid": "A9",
+        "question_string": "What is the difference between the survival rate of female students in primary education and survival rate of male students in primary education in Madagascar ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 1.5752983093262003,
+        "answer_id": 758134,
+        "type": "hbar",
+        "question_id": 1106986
+    },
+    {
+        "image_index": 85208,
+        "qid": "CD6",
+        "question_string": "What is the difference between the highest and the second highest measure of agricultural productivity in Sao Tome and Principe ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": 116.64963373808393,
+        "answer_id": 1052561,
+        "type": "line",
+        "question_id": 727450
+    },
+    {
+        "image_index": 77328,
+        "qid": "CD3",
+        "question_string": "What is the difference between the highest and the lowest debt service ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": 5.73,
+        "answer_id": 130111,
+        "type": "hbar",
+        "question_id": 92146
+    },
+    {
+        "image_index": 18754,
+        "qid": "CD8",
+        "question_string": "In how many years, is the amount spent on labor taxes greater than the average amount spent on labor taxes taken over all years ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "dot",
+        "question_id": 192619
+    },
+    {
+        "image_index": 5601,
+        "qid": "D6",
+        "question_string": "Does the number of days required to register a property in Vietnam monotonically increase over the years ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "dot",
+        "question_id": 822527
+    },
+    {
+        "image_index": 75457,
+        "qid": "A3",
+        "question_string": "What is the median number of out-of-school children ?",
+        "template": "arithmetic",
+        "answer": 459168.0,
+        "answer_id": 993892,
+        "type": "hbar",
+        "question_id": 85147
+    },
+    {
+        "image_index": 68886,
+        "qid": "CD7",
+        "question_string": "What is the difference between the highest and the lowest total electricity produced in 1961 ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": 1.5225556360544679,
+        "answer_id": 129166,
+        "type": "hbar",
+        "question_id": 178964
+    },
+    {
+        "image_index": 44821,
+        "qid": "A5",
+        "question_string": "What is the difference between the total cereal production in 1961 in Denmark and that in Dominica ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 5198770.0,
+        "answer_id": 809460,
+        "type": "hbar",
+        "question_id": 1263919
+    },
+    {
+        "image_index": 72160,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 558,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 458,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 358,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 259,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 159,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 59,
+                "x": 27,
+                "w": 23.625,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 6,
+        "answer_id": 34,
+        "type": "hbar",
+        "question_id": 24
+    },
+    {
+        "image_index": 42772,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 361,
+                "w": 81,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 470,
+                "w": 70,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 568,
+                "w": 58,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "hbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 132294,
+        "qid": "D7",
+        "question_string": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer_bbox": [],
+        "template": "data_retrieval",
+        "answer": 1000000.0,
+        "answer_id": 140,
+        "type": "vbar",
+        "question_id": 25
+    },
+    {
+        "image_index": 62177,
+        "qid": "C5",
+        "question_string": "What is the ratio of the gross enrolment ratio(female) in tertiary schools in Mauritius to that in Israel ?",
+        "answer_bbox": [],
+        "template": "comparison",
+        "answer": 0.11039536631533593,
+        "answer_id": 921740,
+        "type": "hbar",
+        "question_id": 1443235
+    },
+    {
+        "image_index": 57697,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 147.37531250000004,
+            "w": 586.5,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Trade statistics with developing economies of Arab World in 1962",
+        "answer_id": 330553,
+        "type": "hbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 35150,
+        "qid": "A4",
+        "question_string": "What is the total amount spent on grants and revenue in the graph ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": "641152000",
+        "answer_id": 745702,
+        "type": "hbar",
+        "question_id": 56959
+    },
+    {
+        "image_index": 39492,
+        "qid": "S0",
+        "question_string": "Does the graph contain any zero values ?",
+        "answer_bbox": [],
+        "template": "structural",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "hbar",
+        "question_id": 27
+    },
+    {
+        "image_index": 68294,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 300,
+            "x": 6,
+            "w": 18,
+            "h": 40.890625
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "hbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 10747,
+        "qid": "CD8",
+        "question_string": "In how many years, is the number of days required to get electricity in in Turkey greater than the average number of days required to get electricity in in Turkey taken over all years ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": 0,
+        "answer_id": 69,
+        "type": "dot",
+        "question_id": 911838
+    },
+    {
+        "image_index": 78556,
+        "qid": "A1",
+        "question_string": "What is the difference between the cereal production in Iraq and Ireland ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 12469.0,
+        "answer_id": 1007051,
+        "type": "hbar",
+        "question_id": 1561355
+    },
+    {
+        "image_index": 144155,
+        "qid": "A8",
+        "question_string": "In the year 2007, what is the difference between the labor force participation rate in Ukraine and labor force participation rate in Macedonia ?",
+        "answer_bbox": [],
+        "template": "arithmetic",
+        "answer": 4.399997711181705,
+        "answer_id": 35153,
+        "type": "vbar",
+        "question_id": 2100327
+    },
+    {
+        "image_index": 49900,
+        "qid": "C5",
+        "question_string": "What is the ratio of the tuberculosis treatment success rate in 1996 in Tanzania to that in Thailand ?",
+        "answer_bbox": [],
+        "template": "comparison",
+        "answer": 0.9743589743589743,
+        "answer_id": 175000,
+        "type": "hbar",
+        "question_id": 1316009
+    },
+    {
+        "image_index": 6975,
+        "qid": "S6",
+        "question_string": "How many dotlines are there ?",
+        "answer_bbox": [
+            {
+                "y": 584,
+                "x": 103,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 584,
+                "x": 472,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 584,
+                "x": 841,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 584,
+                "x": 1211,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 162,
+                "x": 103,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 180,
+                "x": 472,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 85,
+                "x": 841,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 56,
+                "x": 1211,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 584,
+                "x": 103,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 581,
+                "x": 472,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 580,
+                "x": 841,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 583,
+                "x": 1211,
+                "w": 12,
+                "h": 12
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "dot",
+        "question_id": 23
+    },
+    {
+        "image_index": 14830,
+        "qid": "D10",
+        "question_string": "Does \"Cyprus\" appear as one of the legend labels in the graph ?",
+        "answer_bbox": [],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "dot",
+        "question_id": 14501
+    }
+]

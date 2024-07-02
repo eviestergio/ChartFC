@@ -1,0 +1,93 @@
+[
+    {
+        "image_index": 15714,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 555,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 432,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 308,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 185,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 62,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 5,
+        "answer_id": 53,
+        "type": "hbar",
+        "question_id": 24
+    },
+    {
+        "image_index": 4405,
+        "qid": "D6",
+        "question_string": "Does the percentage of expenses made by the government on subsidies and transfers in Liberia monotonically increase over the years ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": "Yes",
+        "answer_id": 1,
+        "type": "dot",
+        "question_id": 84397
+    },
+    {
+        "image_index": 631,
+        "qid": "S0",
+        "question_string": "Does the graph contain any zero values ?",
+        "answer_bbox": [],
+        "template": "structural",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "dot",
+        "question_id": 27
+    },
+    {
+        "image_index": 20710,
+        "qid": "D17",
+        "question_string": "Is the value added by the agricultural sector to the total GDP in Thailand strictly greater than the value added by the agricultural sector to the total GDP in St. Kitts and Nevis over the years ?",
+        "answer_bbox": [],
+        "template": "compound",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "line",
+        "question_id": 286526
+    },
+    {
+        "image_index": 2952,
+        "qid": "M7",
+        "question_string": "In which year was the net bilateral aid flow in Middle income minimum?",
+        "answer_bbox": {
+            "y": 641,
+            "x": 1027,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "1997",
+        "answer_id": 6,
+        "type": "dot",
+        "question_id": 53225
+    }
+]

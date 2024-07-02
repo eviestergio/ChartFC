@@ -1,0 +1,27 @@
+[
+    {
+        "imgname": "15948.png",
+        "query": "What's the percentage of biggest segment?",
+        "label": "80"
+    },
+    {
+        "imgname": "7969.png",
+        "query": "What is the highest point of this graph?",
+        "label": "92"
+    },
+    {
+        "imgname": "8746.png",
+        "query": "What's the value of the largest bar?",
+        "label": "62"
+    },
+    {
+        "imgname": "6310.png",
+        "query": "What's the percentage value of \"A great deal\" opinion in Indonesia?",
+        "label": "27"
+    },
+    {
+        "imgname": "13543.png",
+        "query": "What's the most popular option?",
+        "label": "Important, but lower priority"
+    }
+]

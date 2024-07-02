@@ -1,0 +1,27 @@
+[
+    {
+        "imgname": "1218.png",
+        "query": "What's the ratio of Never/Rarely and Occasionally/Frequently in Luo?",
+        "label": "0.085416667"
+    },
+    {
+        "imgname": "4429.png",
+        "query": "What is the total of Republicans and Democrats in 2010?",
+        "label": "87"
+    },
+    {
+        "imgname": "8417.png",
+        "query": "What input situation is represented by the biggest bar",
+        "label": "Click on links to news stories"
+    },
+    {
+        "imgname": "4211.png",
+        "query": "Is the add-up the value of all Green segments is greater than the sum of all Dark blue segments?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "1086.png",
+        "query": "What's the ratio of Trump voters who are against Biden and Biden voters who are for Biden?",
+        "label": "0.340972222"
+    }
+]
